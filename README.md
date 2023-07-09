@@ -1,6 +1,7 @@
 // This is where I put what I've done and what needs done for the update notes.
 
 - Added 4J Studios Splashscreen
+- Added Mobs In Cave
 - Added 2 Menu Ambient
 - Added Creative Ambient
 - New Texture Pack
