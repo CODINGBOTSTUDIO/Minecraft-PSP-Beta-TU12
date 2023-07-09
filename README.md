@@ -11,6 +11,7 @@
 - Better Mip Map Texture Quality
 - Better Fog
 - Better Cave And Terran Generation
+- Changed Hud
 - Deleted World Converter
 - Fixed Save World
 - Fixed Inventory Gui
