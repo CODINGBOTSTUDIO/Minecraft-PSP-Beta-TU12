@@ -1,9 +1,9 @@
 // This is where I put what I've done and what needs done for the update notes.
 
 - Added 4J Studios Splashscreen
-- Added Mobs In Cave
 - Added 2 Menu Ambient
 - Added Creative Ambient
+- Added Mobs In Cave
 - New Texture Pack
 - New Mob Spider And Spider Cave
 - Mineshaft Generation
