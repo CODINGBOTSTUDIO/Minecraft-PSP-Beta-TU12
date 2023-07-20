@@ -1,7 +1,7 @@
 // This is where I put what I've done and what needs done for the update notes.
 
 - Added 4J Studios Splashscreen
-- Added 2 Menu Ambient
+- Added 2 New Menu Ambient
 - Added Creative Ambient
 - Added Mobs In Cave
 - New Texture Pack
@@ -10,10 +10,10 @@
 - Better Legacy UI
 - Better Mip Map Texture Quality
 - Better Fog
-- Better Cave And Terran Generation
+- Better Cave And Terrain Generation
 - Changed Hud
 - Deleted World Converter
-- Fixed Save World
+- Fixed Load World Crash
 - Fixed Inventory Gui
 - Playable Only On PSP With 64mb ram
 - Version Name
