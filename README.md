@@ -1,19 +1,21 @@
 // This is where I put what I've done and what needs done for the update notes.
 
+- New Mass Effect Mash Up Pack
+- New Halloween  Mash Up Pack
+- Finished Festive Mash Up Pack
 - Added 4J Studios Splashscreen
-- Added 2 New Menu Ambient
-- Added Creative Ambient
-- Added Mobs In Cave
-- New Texture Pack
-- New Mob Spider And Spider Cave
+- Improvement Performance
+- New World Generator
 - Mineshaft Generation
+- New Biomes
+- New Creative Ambient
+- New Mob Spider
 - Better Legacy UI
-- Better Mip Map Texture Quality
+- Better Lighting
 - Better Fog
-- Better Cave And Terrain Generation
-- Changed Hud
-- Deleted World Converter
-- Fixed Load World Crash
-- Fixed Inventory Gui
+- Better Cave Generation
+- Fixed Save World
+- Fixed All Inventory Gui
+- Fixed Pig Skin
 - Playable Only On PSP With 64mb ram
 - Version Name
